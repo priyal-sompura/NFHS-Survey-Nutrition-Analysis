@@ -1,0 +1,14 @@
+{
+  "name": "Clean Healthcare Theme",
+  "background": "#FFFFFF",
+  "foreground": "#2D3436",
+  "dataColors": [
+    "#2F80ED",
+    "#27AE60",
+    "#EB5757",
+    "#F2C94C",
+    "#6C5CE7",
+    "#00B894",
+    "#636E72"
+  ]
+}
